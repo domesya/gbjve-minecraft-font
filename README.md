@@ -8,7 +8,7 @@
 ## Instructions
 
 ### Minecraft
-To install the font in minecraft, you have to put the ascii.png file in `PathToYourMinecraftInstance/minecraft/resourcepacks/YourPackHere/assets/minecraft/textures/font/` folder
+To install the font in minecraft, you have to put the ascii.png file in `PathToYourMinecraftInstance/minecraft/resourcepacks/YourPackHere/assets/minecraft/textures/font/` folder.  
 That's how it works with newer versions of minecraft.
 
 ### CraftOS-PC
