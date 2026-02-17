@@ -2,7 +2,7 @@
 ![demo](img/gbjve-screen.png)
 
 ## Info
-[ascii.png](font/ascii.png) is a file for minecraft itself
+[ascii.png](font/ascii.png) is a file for minecraft itself  
 [gbjve-ccpc.bmp](font/gbjve-ccpc.bmp) is a file for [CraftOS-PC](https://github.com/MCJack123/craftos2)
 
 ## Instructions
