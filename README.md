@@ -16,7 +16,7 @@ To install this font to be used in CraftOS-PC, put gbjve-ccpc.bmp in a folder of
 ```json
 {
  "customFontPath" : "\/Path\/To\/gbjve-ccpc.bmp",
-    "customFontScale" : 2,
+ "customFontScale" : 2,
 }
 ```
 
